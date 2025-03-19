@@ -1,0 +1,1 @@
+/glade/campaign/cesm/development/palwg/inputdata/ocn/mom/tx2_3v2/b40.lgm21ka.1deg.003.TEMP_SALT.235101-240012.forMOM6_250122.nc

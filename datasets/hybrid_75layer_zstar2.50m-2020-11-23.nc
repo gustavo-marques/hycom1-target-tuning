@@ -1,0 +1,1 @@
+/glade/campaign/cesm/cesmdata/inputdata/ocn/mom/tx2_3v2/hybrid_75layer_zstar2.50m-2020-11-23.nc
